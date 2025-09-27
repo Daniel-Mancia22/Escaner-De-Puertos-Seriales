@@ -23,6 +23,10 @@ Una aplicación de monitoreo serial en tiempo real diseñada para laboratorios d
 - **Comunicación thread-safe:** Mecanismos seguros entre hilos
 - **Scanner no-bloqueante:** Detección de puertos sin afectar rendimiento
 
-## 👨🏽‍💻 Autor
+## 👨🏽‍💻 Desarrolladores/as
+
+- [Michelle Solis](https://github.com/misol2281)
 - [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
+- [Ronal Mendez](https://github.com/mrsMendez)
+- [Owen Guevara](https://github.com/)
   
