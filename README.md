@@ -28,5 +28,5 @@ Una aplicación de monitoreo serial en tiempo real diseñada para laboratorios d
 - [Michelle Solis](https://github.com/misol2281)
 - [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
 - [Ronal Mendez](https://github.com/mrsMendez)
-- [Owen Guevara](https://github.com/)
+- [Owen Guevara](https://github.com/2OGomez2)
   
